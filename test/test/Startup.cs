@@ -36,7 +36,6 @@ namespace test
             {
                 //3434
                 app.UseDeveloperExceptionPage();
-                // add 2
             }
             else
             {
