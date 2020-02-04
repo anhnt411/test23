@@ -34,6 +34,7 @@ namespace test
         {
             if (env.IsDevelopment())
             {
+                //3434
                 app.UseDeveloperExceptionPage();
                 // add 2
             }
